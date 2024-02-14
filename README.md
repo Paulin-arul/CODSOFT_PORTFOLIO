@@ -19,6 +19,7 @@ This portfolio project serves as a showcase for the interns at Codsoft, highligh
 
 
 Features
+
 => Homepage: Introduces visitors to the portfolio and provides an overview of the interns and their projects.
 
 => Intern Profiles: Each intern has a dedicated profile page showcasing their skills, experiences, and projects.
