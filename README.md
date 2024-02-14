@@ -4,8 +4,11 @@ Welcome to the portfolio project created by interns at Codsoft! This portfolio s
 
 
 Table of Contents
+
 => About
+
 =>Features
+
 =>Technologies Used
 
 
@@ -17,13 +20,18 @@ This portfolio project serves as a showcase for the interns at Codsoft, highligh
 
 Features
 => Homepage: Introduces visitors to the portfolio and provides an overview of the interns and their projects.
+
 => Intern Profiles: Each intern has a dedicated profile page showcasing their skills, experiences, and projects.
+
 => Project Showcase: Displays various projects completed by the interns during their internship, with descriptions and links to live demos or GitHub repositories.
+
 => Contact Page: Allows visitors to get in touch with the interns for inquiries, collaborations, or job opportunities.
 
 
 
 Technologies Used
 => HTML5
+
 => CSS3
+
 => JavaScript
